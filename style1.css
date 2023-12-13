@@ -1,0 +1,97 @@
+.page1 {
+    background-color: whitesmoke;
+    height: 700px;
+    width: 95%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.others {
+    background-color: skyblue;
+    height: 85%;
+    width: 65%;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.profilePic {
+    background-color: skyblue;
+    height: 70%;
+    width: 25%;
+    border-radius: 20px;
+}
+
+.name {
+    font-size: 40px;
+    top: 10px;
+
+}
+
+.pic {
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    border-radius: 20px;
+}
+
+.profile {
+    background-color: whitesmoke;
+    height: 240px;
+    width: 240px;
+    border-radius: 20px;
+    background-image: url(prof.jpg);
+    background-size: cover;
+
+
+}
+
+.education {
+    background-color: whitesmoke;
+    height: 240px;
+    width: 240px;
+    border-radius: 20px;
+    background-image: url(edu.jpg);
+    background-size: cover;
+
+}
+
+.skill {
+    background-color: whitesmoke;
+    height: 240px;
+    width: 240px;
+    border-radius: 20px;
+    background-image: url(skil.jpg);
+    background-size: cover;
+
+}
+
+.hobby {
+    background-color: whitesmoke;
+    height: 240px;
+    width: 240px;
+    border-radius: 20px;
+    background-image: url(hobby.jpg);
+    background-size: cover;
+}
+
+.achievement {
+    background-color: whitesmoke;
+    height: 240px;
+    width: 240px;
+    border-radius: 20px;
+    background-image: url(ach.jpg);
+    background-size: cover;
+
+}
+
+.other{
+    font-family: sans-serif;
+    size: 40px;
+}
